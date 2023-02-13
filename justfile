@@ -6,6 +6,7 @@ zig_clap_version := "0.6.0"
 zig_regex_version := "d73caa2"
 
 setup:
+  mkdir -p libs
   # zig-string
   git -C libs clone https://github.com/JakubSzark/zig-string.git || true
   # zig-datetime
