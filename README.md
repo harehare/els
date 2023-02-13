@@ -2,10 +2,9 @@
 
 # <img height="128px" src="./assets/icon.svg"/>
 
-<!--
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENSE)
-[![tests](https://github.com/harehare/els/actions/workflows/tests.yml/badge.svg)](https://github.com/harehare/els/actions/workflows/tests.yml)
--->
+![](https://github.com/harehare/els/workflows/tests/badge.svg?branch=master)
+
 </div>
 
 <div style="color:#49B6C8">
